@@ -1,0 +1,2 @@
+hello from note_home
+current directory is: /mnt/c/My Repo/Data-Engineering-Nour-Alahmad/Exercises/Linux-training
